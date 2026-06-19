@@ -28,7 +28,7 @@ Developed to eliminate fragmented tracking, AMS unifies asset acquisition, maint
       <sub><b>Fig 1:</b> Secure Authentication Interface</sub>
     </td>
     <td align="center">
-      <img src="assets/screenshots/search.png" alt="Asset Search & Filtering" width="100%"/>
+      <img src="screenshots/search.png" alt="Asset Search & Filtering" width="100%"/>
       <br>
       <sub><b>Fig 2:</b> Advanced Search & Dynamic Filtering</sub>
     </td>
