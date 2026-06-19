@@ -35,12 +35,12 @@ Developed to eliminate fragmented tracking, AMS unifies asset acquisition, maint
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/screenshots/asset-info.png" alt="Historical Data Analytics" width="100%"/>
+      <img src="/screenshots/asset-info.png" alt="Historical Data Analytics" width="100%"/>
       <br>
       <sub><b>Fig 3:</b> Real-time Historical Data Analytics & Information</sub>
     </td>
     <td align="center">
-      <img src="assets/screenshots/management.png" alt="Management" width="100%"/>
+      <img src="/screenshots/management.png" alt="Management" width="100%"/>
       <br>
       <sub><b>Fig 4:</b> Asset Management</sub>
     </td>
