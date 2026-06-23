@@ -52,7 +52,7 @@ public class AssetAU {
         String assetType = assetTypeField.getText();
         String assetReported = assetReportedField.getText();
         String assetWhere = assetWhereField.getText();
-        String accountUserName = userNameField.getText(); // Giriş yapmış kullanıcı adı
+        String accountUserName = userNameField.getText(); 
 
         if (assetName.isEmpty() || assetQuantityStr.isEmpty() || assetType.isEmpty() || assetReported.isEmpty() || assetWhere.isEmpty()) {
             showAlert(AlertType.ERROR, "Form Error!", "Please enter all fields");
@@ -76,7 +76,7 @@ public class AssetAU {
             preparedStatement.setString(3, assetType);
             preparedStatement.setString(4, assetReported);
             preparedStatement.setString(5, assetWhere);
-            preparedStatement.setString(6, accountUserName); // Giriş yapmış kullanıcı adını buraya ekleyin
+            preparedStatement.setString(6, accountUserName); 
 
             int rowsAffected = preparedStatement.executeUpdate();
             if (rowsAffected > 0) {
